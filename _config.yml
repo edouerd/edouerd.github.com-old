@@ -3,7 +3,9 @@ title: Édouard U.
 version: "v1"
 description: "Ed is a physical–digital product designer, né industrial designer."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://labs.edouard.us" # the base hostname & protocol for your site
+url: "https://edouerd.github.io/edouerd.github.com-old/"
+# url: "http://labs.edouard.us" # the base hostname & protocol for your site
+
 
 permalink: pretty
 
